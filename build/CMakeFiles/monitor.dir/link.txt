@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/monitor.dir/src/main.cpp.o CMakeFiles/monitor.dir/src/Logger.cpp.o CMakeFiles/monitor.dir/src/MetricsRegistry.cpp.o -o monitor 

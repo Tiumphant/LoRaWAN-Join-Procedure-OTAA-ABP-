@@ -1,0 +1,3 @@
+/home/nisha/diagnostics-monitor/build/CMakeFiles/monitor.dir
+/home/nisha/diagnostics-monitor/build/CMakeFiles/edit_cache.dir
+/home/nisha/diagnostics-monitor/build/CMakeFiles/rebuild_cache.dir
